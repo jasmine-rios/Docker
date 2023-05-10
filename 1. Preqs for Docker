@@ -1,0 +1,15 @@
+# Preqs for Docker
+
+## Systems Supported
+
+* Windows 10 (Home, Pro, and Enterprise editions)
+* Windows Server 2016 or later
+* MacOS El Captian 10.11 or newer with Intel Processor that supports virtualization
+* Most Linux distros if they have 64-bit version and kernel version of 3.10 or higher
+
+## Download for Docker
+
+The download for Docker can be found at https://www.docker.com/get-started/ if you want to manually get the docker. In step 1, I will do it using brew
+commands.
+
+Continue on to the next step!
