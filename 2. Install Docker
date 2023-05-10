@@ -1,0 +1,15 @@
+# Install Docker 
+
+## Install Docker using Brew
+
+1. Navigate to terminal app and in the home directory, issue this command to install Docker using Brew:
+
+brew install docker
+
+2. Verify that Brew did infact install docker by running this command:
+
+docker --version
+
+Docker is now installed! 
+
+Move on to the next step to create stuff within docker. 
